@@ -1,0 +1,11 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade 1.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade 1.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\bin\Debug\atividade 1.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\bin\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\bin\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade 1.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade 1.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\bin\Debug\MySql.Data.dll
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade_1.TelaLogin.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade_1.TelaDeCadastro.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 1\obj\Debug\atividade_1.TelaCadastroDoCliente.resources

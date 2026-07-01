@@ -1,0 +1,22 @@
+CREATE DATABASE IF NOT EXISTS sistema_clientes;
+USE sistema_clientes;
+CREATE TABLE IF NOT EXISTS usuarios (
+id INT AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(100) NOT NULL,
+usuario VARCHAR(50) NOT NULL UNIQUE,
+senha VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS clientes (
+id INT AUTO_INCREMENT PRIMARY KEY,
+nome_cliente VARCHAR(100) NOT NULL,
+telefone VARCHAR(20) NOT NULL,
+email VARCHAR(100),
+endereco VARCHAR(150),
+observacao VARCHAR(255)
+);
+
+
+USE sistema_clientes;
+SELECT * FROM usuarios;
+SELECT * FROM clientes;

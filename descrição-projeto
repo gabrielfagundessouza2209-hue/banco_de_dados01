@@ -1,0 +1,97 @@
+# Sistema de Login - Atividade 1
+
+## Descrição
+
+Este projeto é uma aplicação Windows Forms desenvolvida em C# utilizando o .NET Framework 4.8. O sistema possui uma tela de login integrada a um banco de dados MySQL para autenticação de usuários.
+
+## Requisitos
+
+Antes de executar o projeto, é necessário ter instalado:
+
+- Windows 10 ou superior
+- .NET Framework 4.8
+- MySQL Server
+- Banco de dados configurado conforme o projeto
+- Biblioteca `MySql.Data.dll`
+
+## Arquivos do Projeto
+
+- `atividade 1.sln` - Solução do projeto.
+- `atividade 1.csproj` - Projeto C#.
+- `atividade 1.exe` - Executável da aplicação.
+- `MySql.Data.dll` - Biblioteca de comunicação com o MySQL.
+- `app.config` - Configuração da aplicação.
+
+## Como executar
+
+### Pelo executável
+
+1. Certifique-se de que o arquivo `MySql.Data.dll` esteja na mesma pasta do executável.
+2. Verifique se o servidor MySQL está em execução.
+3. Confirme que o banco de dados foi criado corretamente.
+4. Execute o arquivo:
+
+```
+atividade 1.exe
+```
+
+### Pelo Visual Studio ou SharpDevelop
+
+1. Abra o arquivo `atividade 1.sln`.
+2. Aguarde o carregamento do projeto.
+3. Verifique se todas as referências foram carregadas corretamente.
+4. Compile o projeto.
+5. Execute pressionando **F5**.
+
+## Configuração do banco de dados
+
+Antes de utilizar o sistema:
+
+1. Instale o MySQL Server.
+2. Crie o banco de dados utilizado pelo projeto.
+3. Importe a estrutura das tabelas (caso exista um script SQL).
+4. Configure a string de conexão no código-fonte, caso seja necessário alterar:
+   - Servidor
+   - Porta
+   - Usuário
+   - Senha
+   - Nome do banco
+
+## Funcionalidades
+
+- Login de usuários
+- Validação de credenciais
+- Integração com banco de dados MySQL
+- Interface gráfica Windows Forms
+
+## Possíveis erros
+
+### Erro ao abrir o programa
+
+Verifique se:
+
+- O .NET Framework 4.8 está instalado.
+- O arquivo `MySql.Data.dll` está na mesma pasta do executável.
+- O banco de dados está ligado.
+- As informações de conexão estão corretas.
+
+### Erro de conexão com o banco
+
+Confira:
+
+- Servidor MySQL em execução.
+- Usuário e senha corretos.
+- Banco de dados existente.
+- Porta configurada corretamente (geralmente 3306).
+
+## Tecnologias utilizadas
+
+- C#
+- Windows Forms
+- .NET Framework 4.8
+- MySQL
+- SharpDevelop
+
+## Autor
+
+Gabriel Fagundes Souza
